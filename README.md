@@ -8,6 +8,6 @@ In this project bot follow the white line within the blackline without human int
 
 You can check project images here
 
-! [model1](pic1.png)
-! [model2](pic2.png)
+![model1](pic1.png)
+![model2](pic2.png)
 
